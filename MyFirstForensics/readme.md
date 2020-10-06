@@ -30,10 +30,6 @@ IRM (Incident Response Methodologies)
 
 
 # Forensics領域
->* 
->* 
->* 
->* 
 >* cloud Forensics
 >* Android Forensics
 >* iOS Forensics
